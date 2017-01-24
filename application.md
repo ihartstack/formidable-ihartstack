@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 
 <head>
    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
@@ -6,11 +6,6 @@
 </head>
 
 <body>
-
-   <!-- who am i? -->
-   <div class="web-designer">
-      <img src="ian-hartstack.jpg">
-   </div>
 
    <!-- my experience -->
    <div class="experience">
