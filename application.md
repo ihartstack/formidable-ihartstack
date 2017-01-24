@@ -18,6 +18,9 @@
       <p>
         I also bring a wealth of project management and design experience, which I'd be happy to discuss with you further during an interview. Looking forward to seeing you soon!
       </p>
+      <h4>
+      	Ian Hartstack
+      </h4>
    </div>
 </body>
 
