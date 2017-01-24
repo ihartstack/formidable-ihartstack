@@ -2,7 +2,7 @@
 
 <head>
    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-   <a href="http://www.ianhartstackdesign.com/" title="Portfolio: Ian Hartstack Design">Link to my Portfolio</a>
+   <a href="http://www.ianhartstackdesign.com/" title="Portfolio: Ian Hartstack Design" target="_blank">Link to my Portfolio</a>
 </head>
 
 <body>
